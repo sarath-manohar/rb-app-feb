@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import Steps from '../components/Steps'
-import Preview from '../components/Preview'
+import Steps from '../Components/Steps'
+import Preview from '../Components/Preview'
 
 function Form() {
 
